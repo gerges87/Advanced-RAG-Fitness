@@ -16,10 +16,6 @@ An advanced, production-grade Retrieval-Augmented Generation (RAG) system acting
 - **Faithfulness:** 0.86
 - **Context Precision:** 0.81
 
-![Screenshot 2026-03-17 at 8 43 03 PM](https://github.com/user-attachments/assets/71d63f13-e9c3-47a8-92cc-c6a47ec9780b)
-![Screenshot 2026-03-17 at 9 56 34 PM](https://github.com/user-attachments/assets/1378a9b7-9644-4a44-8583-b4300105fb15)
-![Screenshot 2026-03-17 at 4 11 49 PM](https://github.com/user-attachments/assets/d0800051-18e1-4382-8e85-0fb9997e8cf7)
-![Screenshot 2026-03-17 at 1 58 46 PM](https://github.com/user-attachments/assets/ca6ba832-b4fc-4678-ba4b-800e62f8bb2f)
 
 
 
